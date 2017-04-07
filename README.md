@@ -61,5 +61,5 @@ The author is [Chris Kinsman](https://github.com/chriskinsman)
 [npm-url]: https://npmjs.org/package/tilloo-plugin-sns
 [downloads-image]: https://img.shields.io/npm/dm/tilloo-plugin-sns.svg?style=flat
 [downloads-url]: https://npmjs.org/package/tilloo-plugin-sns
-[shippable-image]: https://api.shippable.com/projects/58e7c1820738ca070057bbb3/badge?branch=master
+[shippable-image]: https://api.shippable.com/projects/58e7d655c02dd1070032ee07/badge?branch=master
 [shippable-url]: https://app.shippable.com/github/chriskinsman/tilloo-plugin-sns
